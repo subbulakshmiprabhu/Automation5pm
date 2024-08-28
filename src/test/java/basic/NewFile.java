@@ -7,6 +7,9 @@ public class NewFile{
 
 
 		 System.out.println("remote change");
+		 System.out.println("local changed");
+		 
+		
          		
   }
 
